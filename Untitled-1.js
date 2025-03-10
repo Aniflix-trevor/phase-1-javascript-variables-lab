@@ -1,3 +1,4 @@
+
 // Code your solution in this file!
 const companyName = "Scuber";
 
@@ -44,4 +45,4 @@ describe("companyCeo", function () {
   });
 });
 
-
+console.log(companyCeo);
